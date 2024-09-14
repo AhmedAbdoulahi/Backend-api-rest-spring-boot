@@ -38,7 +38,6 @@ Ce projet est une API backend développée en utilisant Spring Boot. Il expose d
   ```
    cd <nom-du-repertoire-du-projet>
    mvn clean package
-
 4. Configurez la connexion à la base de données dans le fichier persistence.xml, situé dans src/main/resources/META-INF/, pour y inclure vos informations de base de données (URL, utilisateur, mot de passe).
 
 5. Démarrez le serveur(run button)
